@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.AvaliacaoForaDoPrazoException" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\AvaliacaoForaDoPrazoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.CursoNaoEncontradoException" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\CursoNaoEncontradoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.FormadorNaoEncontradoException" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\FormadorNaoEncontradoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.FormandoJaInscritoException" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\FormandoJaInscritoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.FormandoNaoEncontradoException" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\FormandoNaoEncontradoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.InscricaoNaoEncontradaException" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Exceptions\InscricaoNaoEncontradaException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Exceptions.RequisitoAcessoNaoSatisfeitoException" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\RequisitoAcessoNaoSatisfeitoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Avaliacao" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAgAAAAEgABAEBEAAEADBAAAAAAAEAAAAAQ=</HashCode>
+      <FileName>Models\Avaliacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Certificado" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgQACAAEAQAEAAAAABgIAAAABAAEAMABAgAQAEA=</HashCode>
+      <FileName>Models\Certificado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Curso" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAgAIMAAgQCTAQAEAAIQEACQAIgAAAAgAASAQAFREAg=</HashCode>
+      <FileName>Models\Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Enumeracoes" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enumeracoes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Formador" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAgAAAABAgAACEAEAAAAAgAAAAQAAAgQEAAA=</HashCode>
+      <FileName>Models\Formador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Formando" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAIAABAAAAAABAAAAACAgAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Formando.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Inscricao" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIECBAAAAQEABAAEAEBAEAQkAAAABAAgBAAAIAAAAAg=</HashCode>
+      <FileName>Models\Inscricao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Modulo" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACIAAQAACBAAAFAgBQQgDAAAAABIEAAACAAAEBGAA=</HashCode>
+      <FileName>Models\Modulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Pessoa" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAgCAAABBEAAAAIAAAAAoAgAAAAAAAAAEAAAE=</HashCode>
+      <FileName>Models\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Models.Presenca" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAADAAAACAEAABgABQAABAABBAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\Presenca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Services.GestorFormacao" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAGAEgIygMAIEAgAAiAYBgAYAABAABFQQUEQQAAAA=</HashCode>
+      <FileName>Services\GestorFormacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Services.ServicoRelatorio" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgAAAAAIACAAAAAAAAAAAAAAAAAIAAAQACAAA=</HashCode>
+      <FileName>Services\ServicoRelatorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Utils.Validador" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgBBAQAACIAQAGAAAAAEAAAAAACAAAAAAACAAAAAAkg=</HashCode>
+      <FileName>Utils\Validador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaGestãoCentroFormacaoProfissional.Program" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAJIiAgAICQAAIAgABQCAQAoEYAAJAAAGQI0BgEAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SistemaGestãoCentroFormacaoProfissional.Interfaces.ICertificavel" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQgAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICertificavel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
